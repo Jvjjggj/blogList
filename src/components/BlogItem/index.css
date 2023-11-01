@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.head-date {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.descrip {
+  margin: 0px;
+}
+.list {
+  border: solid 1px #616e7c;
+  border-top: none;
+  border-left: none;
+  padding-bottom: 5px;
+  border-right: none;
+}
+.title-head {
+  font-size: medium;
+}
